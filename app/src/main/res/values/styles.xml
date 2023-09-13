@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <!-- Customize your theme attributes if needed -->
+    </style>
+
+    <!-- Styles for different button types -->
+    <style name="Button.Normal" parent="Widget.MaterialComponents.Button">
+    </style>
+
+    <style name="Button.Text" parent="Widget.MaterialComponents.Button.TextButton">
+    </style>
+
+    <style name="Button.Filled" parent="Widget.MaterialComponents.Button">
+    </style>
+
+    <style name="Button.Elevated" parent="Widget.MaterialComponents.Button">
+    </style>
+
+    <style name="Button.FilledTonal">
+        <item name="android:background">@drawable/tonal_button</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Button.Outlined" parent="Widget.MaterialComponents.Button.OutlinedButton">
+    </style>
+
+    <style name="Button.Icon" parent="Widget.MaterialComponents.Button.Icon">
+    </style>
+
+    <!-- Styles for text input fields -->
+    <style name="TextInputLayout.OutlinedBox" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+    </style>
+
+    <style name="Button"></style>
+</resources>

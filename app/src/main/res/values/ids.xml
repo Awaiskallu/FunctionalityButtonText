@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="showButtonTypes" type="id" />
+    <item name="textButton" type="id" />
+    <item name="filledButton" type="id" />
+    <item name="elevatedButton" type="id" />
+    <item name="filledTonalButton" type="id" />
+    <item name="outlinedButton" type="id" />
+    <item name="iconButton" type="id" />
+    <item name="segmentedButtonGroup" type="id" />
+    <item name="segmentedButton1" type="id" />
+</resources>
